@@ -170,14 +170,12 @@ These contracts are **intentionally vulnerable exploits** written for **educatio
 Released under the [MIT License](LICENSE).
 
 ---
-
 ## 👤 Author
 
-**<ma_buba>**
-- GitHub: [@<ma-buba>](https://github.com/<ma-buba>)
-- Twitter/X: [@<0xstrikerr>](https://twitter.com/<0xstrikerr>)
-- LinkedIn: [<muhammad-abdullahi>](https://linkedin.com/in/<muhammadd-abdullahii-3a5774306>)
-
+**Muhammad Abdullah** (ma_buba)
+- GitHub: [@ma-buba](https://github.com/ma-buba)
+- Twitter/X: [@0xstrikerr](https://twitter.com/0xstrikerr)
+- LinkedIn: [Muhammad Abdullah](https://linkedin.com/in/muhammadd-abdullahii-3a5774306)
 > Built while learning smart contract security. Feedback and PRs welcome — if you spot a cleaner exploit, open an issue! 🐛
 
 ---
