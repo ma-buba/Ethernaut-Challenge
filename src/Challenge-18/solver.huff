@@ -1,0 +1,12 @@
+#define macro MAIN() = takes(0) returns(0) {
+    // 1. store 42 in memory
+    // MSTORE takes (offset and value)
+    0x2a 0x00  // stack [0, 42] 
+    mstore     // stack [] memory [42]
+
+    // 2. return 42 from memory
+    // RETURN takes (offset and length) length is the length to after skipping the offset in the memory
+    0x01 0x1f      // [31, 1]
+    return           // []
+}
+

@@ -1,0 +1,50 @@
+{
+  "lib/ds-test": {
+    "rev": "e282159d5170298eb2455a6c05280ab5a73a4ef0"
+  },
+  "lib/ethernaut": {
+    "rev": "d05643a40aa98c45d66247c69ffceab8f44dd8cb"
+  },
+  "lib/forge-std": {
+    "tag": {
+      "name": "v1.16.2",
+      "rev": "bf647bd6046f2f7da30d0c2bf435e5c76a780c1b"
+    }
+  },
+  "lib/openzeppelin-contracts": {
+    "tag": {
+      "name": "v5.4.0",
+      "rev": "c64a1edb67b6e3f4a15cca8909c9482ad33a02b0"
+    }
+  },
+  "lib/openzeppelin-contracts-05": {
+    "tag": {
+      "name": "v3.4.0",
+      "rev": "fa64a1ced0b70ab89073d5d0b6e01b0778f7e7d6"
+    }
+  },
+  "lib/openzeppelin-contracts-06": {
+    "tag": {
+      "name": "v3.4.0",
+      "rev": "fa64a1ced0b70ab89073d5d0b6e01b0778f7e7d6"
+    }
+  },
+  "lib/openzeppelin-contracts-08": {
+    "tag": {
+      "name": "v4.7.3",
+      "rev": "ecd2ca2cd7cac116f7a37d0e474bbb3d7d5e1c4d"
+    }
+  },
+  "lib/openzeppelin-contracts-upgradeable": {
+    "tag": {
+      "name": "v5.7.0",
+      "rev": "14f52c54d3a1eefbda3d4071efba24d3c1e07e8a"
+    }
+  },
+  "lib/oz-v4.6.0": {
+    "tag": {
+      "name": "v4.6.0",
+      "rev": "d4fb3a89f9d0a39c7ee6f2601d33ffbf30085322"
+    }
+  }
+}
